@@ -1,0 +1,14 @@
+{
+  "name": "multi-downloader",
+  "version": "1.0.0",
+  "description": "Multi Platform Downloader",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "axios": "latest",
+    "express": "latest",
+    "yt-dlp-wrap": "^2.1.1"
+  }
+}
